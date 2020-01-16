@@ -1,6 +1,6 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
-    name: git-gateway
+    name: github
     branch: master
     site_domain: https://tiago-sciencia.netlify.com/
     repo: tisciencia/tiago-sciencia-blog
